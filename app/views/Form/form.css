@@ -1,0 +1,229 @@
+.titulo-form h1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-transform: uppercase;
+  color: rgb(22, 68, 138);
+  background: rgb(132, 175, 255);
+  height: 150px;
+  padding: 20px;
+}
+
+.container-input {
+  padding: 20px;
+}
+
+.nome-input {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.nome-input h2 {
+  font-size: 30px;
+  color: rgb(79, 79, 155);
+}
+
+.nome-input input {
+  padding: 30px;
+  border: 2px solid rgb(127, 188, 238);
+  margin-left: 40px;
+  border-radius: 60px;
+  width: 60vw;
+  font-size: 30px;
+  border-color: rgb(94, 177, 250);
+  outline: none;
+}
+
+.email-input {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.email-input h2 {
+  font-size: 30px;
+  color: rgb(79, 79, 155);
+}
+
+.email-input input {
+  padding: 30px;
+  border: 2px solid rgb(127, 188, 238);
+  margin-left: 180px;
+  border-radius: 60px;
+  width: 60vw;
+  font-size: 30px;
+  border-color: rgb(94, 177, 250);
+  outline: none;
+}
+
+.genero-checkbox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.genero-checkbox h2 {
+  font-size: 30px;
+  color: rgb(79, 79, 155);
+}
+
+.genero-checkbox select {
+  padding: 30px;
+  border: 2px solid rgb(127, 188, 238);
+  margin-left: 160px;
+  border-radius: 60px;
+  width: 65vw;
+  font-size: 30px;
+  border-color: rgb(94, 177, 250);
+  outline: none;
+}
+
+.funcao-checkbox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.funcao-checkbox h2 {
+  font-size: 30px;
+  color: rgb(79, 79, 155);
+}
+
+.funcao-checkbox select {
+  padding: 30px;
+  border: 2px solid rgb(127, 188, 238);
+  margin-left: 160px;
+  border-radius: 60px;
+  width: 65vw;
+  font-size: 30px;
+  border-color: rgb(94, 177, 250);
+  outline: none;
+}
+
+.celular-input {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.celular-input h2 {
+  font-size: 30px;
+  color: rgb(79, 79, 155);
+}
+
+.celular-input input {
+  padding: 30px;
+  border: 2px solid rgb(127, 188, 238);
+  margin-left: 150px;
+  border-radius: 60px;
+  width: 60vw;
+  font-size: 30px;
+  border-color: rgb(94, 177, 250);
+  outline: none;
+}
+
+.pais-checkbox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.pais-checkbox h2 {
+  font-size: 30px;
+  color: rgb(79, 79, 155);
+}
+
+.pais-checkbox select {
+  padding: 30px;
+  border: 2px solid rgb(127, 188, 238);
+  margin-left: 190px;
+  border-radius: 60px;
+  width: 65vw;
+  font-size: 30px;
+  border-color: rgb(94, 177, 250);
+  outline: none;
+}
+
+.empresa-input {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.empresa-input h2 {
+  font-size: 30px;
+  color: rgb(79, 79, 155);
+}
+
+.empresa-input input {
+  padding: 30px;
+  border: 2px solid rgb(127, 188, 238);
+  margin-left: 140px;
+  border-radius: 60px;
+  width: 60vw;
+  font-size: 30px;
+  border-color: rgb(94, 177, 250);
+  outline: none;
+}
+
+.porteEmpresa-checkbox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.porteEmpresa-checkbox h2 {
+  font-size: 30px;
+  color: rgb(79, 79, 155);
+}
+
+.porteEmpresa-checkbox select {
+  padding: 30px;
+  border: 2px solid rgb(127, 188, 238);
+  margin-left: 180px;
+  border-radius: 60px;
+  width: 65vw;
+  font-size: 30px;
+  border-color: rgb(94, 177, 250);
+  outline: none;
+}
+
+.footer-form {
+  display: flex;
+  justify-content: space-around;
+  background: #4682b4;
+  padding: 20px;
+}
+
+.footer-form .CL {
+  font-size: 30px;
+  background-color: rgb(88, 112, 104);
+  color: white;
+  padding: 15px;
+  border-color: aliceblue;
+}
+
+.footer-form .EX {
+  font-size: 30px;
+  background-color: rgb(46, 157, 248);
+  color: white;
+  padding: 15px;
+  border-color: aliceblue;
+}
+
+.footer-form .SV {
+  font-size: 30px;
+  background-color: rgb(14, 136, 30);
+  color: white;
+  padding: 15px;
+  border-color: aliceblue;
+}

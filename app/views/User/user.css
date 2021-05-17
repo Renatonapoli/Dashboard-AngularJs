@@ -1,0 +1,145 @@
+.header-usuarios {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px;
+}
+
+.logo-menuHamburguer img {
+  width: 50px;
+}
+
+.header-titulo {
+  display: flex;
+  font-size: 15px;
+  color: #4682b4;
+}
+
+.header-menuPontilhado img {
+  width: 50px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search input {
+  border-style: none;
+  border: 3px solid #48c1f1;
+  padding: 35px;
+  width: 40vw;
+}
+
+::placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  color: solid #086d95;
+}
+
+.titulo-adicionar {
+  margin-top: 5vh;
+}
+
+.titulo-adicionar h2 {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 20px;
+  color: #086d95;
+}
+
+.botao-cadastrar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+.botao-cadastrar button {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 25px;
+  color: #ffff;
+  background-color: #87ceeb;
+  border-radius: 50px;
+  font-size: 40px;
+}
+
+.cards-letraA h3 {
+  display: flex;
+  align-items: flex-start;
+  color: #4682b4;
+  font-size: 30px;
+  margin-left: 8vw;
+  margin-top: 8vh;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.imagem-card {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 5px;
+  width: 350px;
+  height: 200px;
+  overflow: hidden;
+  box-shadow: 0px 0px 15px -5px;
+  transition: 0.3s;
+  animation: ease-in;
+}
+
+.imagem-card:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 15px 0px;
+}
+
+.imagem-card img {
+  overflow: hidden;
+  width: 40%;
+}
+
+.cards p {
+  display: flex;
+  align-items: flex-start;
+  color: #4682b4;
+  font-size: 30px;
+}
+
+.cards-b h3 {
+  display: flex;
+  align-items: flex-start;
+  color: #4682b4;
+  font-size: 30px;
+  margin-left: 8vw;
+  margin-top: 8vh;
+}
+
+.footer-usuarios {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4682b4;
+}
+
+.footer-usuarios button {
+  border-radius: 20px;
+  text-transform: uppercase;
+  padding: 20px;
+  font-size: 20px;
+  width: 40vh;
+  outline: none;
+  background-color: rgb(80, 255, 197);
+  color: #a020f0;
+  margin: 5px;
+}
