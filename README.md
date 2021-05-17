@@ -24,7 +24,7 @@ Agora que você já sabe do que estamos falando, vamos começar a fazer as coisa
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Renatonapoli/Projeto_Cadastro_De_Usu-rios>
+$ git clone <https://github.com/Renatonapoli/Projeto_Angular>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Projeto Angular
@@ -50,7 +50,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React </a>
+    <a href="https://pt-br.reactjs.org/">🔗 Angular.Js </a>
 
 </h1>
 <p align="center">🚀 Framework para construir interfaces para usuários com responsividade.</p>
